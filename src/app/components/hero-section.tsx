@@ -219,7 +219,7 @@ export default function HeroSection({ isVisible }: { isVisible: boolean }) {
                                                     <div className="w-6 h-6 rounded-full bg-purple-600 flex-shrink-0 mr-2 mt-1"></div>
                                                     <div className="bg-[#1a2747] rounded-tr-xl rounded-br-xl rounded-bl-xl p-3">
                                                         <p className="text-white text-sm">
-                                                            Captain Elara drifted through the nebula, her ship @'apos s sensors detecting an anomaly unlike
+                                                            Captain Elara drifted through the nebula, her ship&apos;s sensors detecting an anomaly unlike
                                                             anything recorded in the galactic archives...
                                                         </p>
                                                     </div>

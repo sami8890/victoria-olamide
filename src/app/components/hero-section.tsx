@@ -63,7 +63,7 @@ export default function HeroSection({ isVisible }: { isVisible: boolean }) {
     }
 
     return (
-        <section className="relative min-h-screen overflow-hidden bg-[#000a20] mt-20">
+        <section className="relative min-h-screen overflow-hidden bg-[#000a20] pt-20">
             {/* Background elements */}
             <div className="absolute inset-0 overflow-hidden">
                 {/* Subtle gradient overlay */}

@@ -50,7 +50,7 @@ export default function TestimonialCard({
                 </div>
             </div>
 
-            <p className="text-gray-300 mb-4">"{quote}"</p>
+            <p className="text-gray-300 mb-4">&quot;{quote}&quot;</p>
 
             <div className="flex items-center gap-1">
                 {Array.from({ length: 5 }).map((_, i) => (
